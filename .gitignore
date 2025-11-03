@@ -1,0 +1,23 @@
+## .NET ##
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio ##
+.vs/
+_ReSharper.*/
+
+## NuGet ##
+packages/
+*.nupkg
+.nuget/
+
+## OS ##
+Thumbs.db
+.DS_Store
+
+## Runtime ##
+appsettings.Development.json
